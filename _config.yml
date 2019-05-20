@@ -1,0 +1,29 @@
+# Site settings
+title: "Ẩm Thực Chay"
+url-title: "Điểm hẹn Ăn Chay"
+description: "Đoàn Bình và Ăn Chay Trường"
+paginate: 100
+url: "https://heartech.online"
+permalink: /:year/:month/:title/
+future: false
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      excerpt_words: 25
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+  deploy_style: compressed
+
+gems: [jekyll-paginate]
