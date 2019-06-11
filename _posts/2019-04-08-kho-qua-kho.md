@@ -1,7 +1,7 @@
 ---
 published: true
 hidden: false
-title: Khổ qua kho chay
+title:  Khổ qua kho chay
 tags: styling react styled-components
 twitter_large: true
 image: kho-qua.jpg
