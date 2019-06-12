@@ -1,11 +1,11 @@
 ---
 published: true
 hidden: false
-title: Đậu phụ kho nấm rơm
+title: Đậu phụ kho nấm rơm, khó mà cưỡng lại
 tags: styling react styled-components
 twitter_large: true
 image: kho-nam-rom.jpg
-custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+custom_excerpt: 
 ---
 
 **Nguyên liệu:**

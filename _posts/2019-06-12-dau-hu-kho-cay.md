@@ -5,7 +5,7 @@ title: Đậu phụ non kho cay sền sệt
 tags: styling react styled-components
 twitter_large: true
 image: kho-cay.png
-custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+custom_excerpt:
 ---
 
 **Nguyên liệu**

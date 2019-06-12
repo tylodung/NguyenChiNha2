@@ -5,7 +5,7 @@ title: Đậu hủ non chiên giòn rụm
 tags: styling react styled-components
 twitter_large: true
 image: dau-phu-chay.jpg
-custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+custom_excerpt:
 ---
 
 **Nguyên liệu:**

@@ -1,11 +1,11 @@
 ---
 published: true
 hidden: false
-title: Đậu phụ chiên sả ớt
+title: Thật hấp dẫn với món Đậu phụ chiên sả ớt
 tags: styling react styled-components
 twitter_large: true
 image: chien-sa.jpg
-custom_excerpt: Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+custom_excerpt: 
 ---
 
 **Nguyên liệu để làm đậu hũ chiên sả ớt**
