@@ -1,7 +1,7 @@
 # Site settings
 title: "But Chay"
-url-title: "Điểm hẹn Ăn Chay"
-description: "Đoàn Bình và Ăn Chay Trường"
+url-title: "Lời Người Xưa"
+description: "Đoàn Bình và những lời dạy"
 paginate: 100
 url: "https://hongkongnews247.site"
 permalink: /:year/:month/:title/
