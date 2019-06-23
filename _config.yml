@@ -3,7 +3,7 @@ title: "But Chay"
 url-title: "Lời Người Xưa"
 description: "Đoàn Bình và những lời dạy"
 paginate: 100
-url: "https://hongkongnews247.site"
+url: "https://opensystech.com"
 permalink: /:year/:month/:title/
 future: false
 defaults:
